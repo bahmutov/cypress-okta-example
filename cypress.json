@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "env": {
+    "username": "foo@email.com",
+    "password": null,
+    "oktaUrl": "https://dev-827164.okta.com"
+  }
+}
